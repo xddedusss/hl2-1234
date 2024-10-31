@@ -1,0 +1,105 @@
+h1 {
+    text-align: center;
+    
+    
+}
+body {
+    font-family: sans-serif;
+    margin-right: 290px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 290px;
+    
+}
+h2 {
+    text-align: center;
+    margin: 10px;
+    
+    
+}
+header {
+    
+    background-color: orangered;
+    
+}
+h3 {
+    text-align: center;
+    background-color: orangered;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+h4 {
+    text-align: center;
+    background-color: orangered;
+    font-size: 30px;
+}
+h5 {
+    text-align: center;
+    background-color: orangered;
+    font-size: 30px;
+    padding: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(27, 27, 27);
+    font-size: 20px;
+    border: solid 3px rgb(27, 27, 27);
+    text-align: center ;
+    padding-right: 19px ;
+    padding-left: 19px ;
+    
+}
+nav a img{
+    margin: auto;
+    display: block;
+}
+nav {
+    display:flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+footer {
+    background-color: orangered;
+}
+.ppp {
+    font-size: 20px;
+    padding: 20px;
+}
+
+nav a:hover {
+    border: solid black 4px;
+    transition: 0.2s;
+    border-radius: 20px;
+    padding: 10px; 
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 115, 0);
+}
+.video {
+    display: flex;
+    justify-content:center;
+
+
+}
+html {
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/861/167/703/half-life-half-life-2-video-games-combine-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.infa-infaa {
+    margin-bottom: 40px;
+    font-size: 22px;
+}
+
+
+
+
+
+
